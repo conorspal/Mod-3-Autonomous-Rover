@@ -1,2 +1,2 @@
-conor = test
-print(conor)
+name = conor
+print(name)
